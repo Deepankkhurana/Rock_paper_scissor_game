@@ -1,20 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": 23,
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      " Enter a choice : Rock, Paper or Scissors : Rock\n",
-      "You chose: Rock And the Computer chose: Paper\n",
-      "Paper Covers Rock, Computer Wins\n"
-     ]
-    }
-   ],
    "source": [
     "import random\n",
     "def get_choices():\n",
